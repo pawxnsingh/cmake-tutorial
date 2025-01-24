@@ -1,0 +1,8 @@
+/root/tutorial/build/CMakeFiles/sum.dir
+/root/tutorial/build/CMakeFiles/hello.dir
+/root/tutorial/build/CMakeFiles/edit_cache.dir
+/root/tutorial/build/CMakeFiles/rebuild_cache.dir
+/root/tutorial/build/CMakeFiles/list_install_components.dir
+/root/tutorial/build/CMakeFiles/install.dir
+/root/tutorial/build/CMakeFiles/install/local.dir
+/root/tutorial/build/CMakeFiles/install/strip.dir

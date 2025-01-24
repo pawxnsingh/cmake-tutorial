@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/root/tutorial/build",
+  "command": "/usr/bin/c++  -I/root/tutorial/include  -o CMakeFiles/sum.dir/lib/sum.cc.o -c /root/tutorial/lib/sum.cc",
+  "file": "/root/tutorial/lib/sum.cc",
+  "output": "CMakeFiles/sum.dir/lib/sum.cc.o"
+},
+{
+  "directory": "/root/tutorial/build",
+  "command": "/usr/bin/c++  -I/root/tutorial/include -isystem /usr/include/eigen3  -o CMakeFiles/hello.dir/src/hello.cc.o -c /root/tutorial/src/hello.cc",
+  "file": "/root/tutorial/src/hello.cc",
+  "output": "CMakeFiles/hello.dir/src/hello.cc.o"
+}
+]

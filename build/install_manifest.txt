@@ -1,0 +1,5 @@
+/root/tutorial/build/install/include/sum.hh
+/root/tutorial/build/install/lib/libsum.a
+/root/tutorial/build/install/lib/cmake/sum/sum-targets.cmake
+/root/tutorial/build/install/lib/cmake/sum/sum-targets-noconfig.cmake
+/root/tutorial/build/install/lib/cmake/sum/sum-config.cmake
